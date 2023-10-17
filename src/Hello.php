@@ -1,5 +1,5 @@
 <?php
-namespace Wild\App;
+namespace App;
 
 Class Hello
 {
